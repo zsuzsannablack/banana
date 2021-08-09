@@ -1,3 +1,22 @@
+/**
+ * CONTENTS
+ *
+ * HEADER
+ *
+ * NAVIGATION
+ *
+ * MAIN CONTENT
+ *
+ * SIDEBAR
+ *
+ * ADVERTISEMENT
+ *
+ * FOOTER
+ */
+
+/*------------------------------------*\
+  #HEADER
+\*------------------------------------*/
 .main-head {
   background-color: var(--bg-primary);
   display: flex;

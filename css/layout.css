@@ -1,3 +1,17 @@
+/**
+* CONTENTS
+*
+* LAYOUT
+* Elements.............Rules for the container and items
+* Modifiers............Media queries for the layout.
+*
+* WHITESPACES
+* Whitespaces..........Whitespaces between items.
+*/
+
+/*------------------------------------*\
+ #ELEMENTS
+\*------------------------------------*/
 .main-head {
   grid-area: header;
   place-self: center strech;

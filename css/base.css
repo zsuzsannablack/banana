@@ -1,3 +1,32 @@
+/**
+ * OVERVIEW
+ *
+ * This project is separated to the following style sheets:
+ *
+ * normalize.min.css....CSS reset.
+ * base.css.............Global rules and helpers.
+ * layout.css...........CSS rules that control the layout of the page.
+ * components.css.......Own CSS for the components that build up the page.
+ */
+
+
+/**
+ * CONTENTS
+ *
+ * SETTINGS
+ * Variables............Globally-available variables.
+ * Box-sizing...........Better default `box-sizing`.
+ * Margins..............Top and bottom margins global values.
+ *
+ * BASE STYLES
+ * Headings.............H1-H2 styles.
+ * Base font............Base font style.
+ *
+ */
+
+/*------------------------------------*\
+  #VARIABLES
+\*------------------------------------*/
 :root {
   --bg-primary: #dfe075;
   --bg-secondary: #e3e3e3;
